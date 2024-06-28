@@ -1,4 +1,4 @@
-#Fraunhofer IOSB-AST Robot Simulation#
+#Robot Simulation#
 
 This project simulates a robot's movement on a table of size N x M. 
 The application takes the table dimensions, the robot's initial position and orientation, and a sequence of movement commands as input to perform the simulation. 
