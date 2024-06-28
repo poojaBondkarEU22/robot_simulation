@@ -1,0 +1,11 @@
+2024-06-06 13:13:42 [main] ERROR org.iosb.robot.simulator.RobotSimulation - Invalid Input. Either Table size or initial position contains non-numeric value.
+2024-06-06 14:35:22 [main] ERROR org.iosb.robot.simulator.RobotSimulation - Invalid Input. Either Table size or initial position contains non-numeric value.
+2024-06-06 14:38:26 [main] ERROR org.iosb.robot.simulator.RobotSimulation - Invalid Input. Either Table size or initial position contains non-numeric value.
+2024-06-06 15:22:43 [main] ERROR org.iosb.robot.simulator.RobotSimulation - Invalid Input. Either Table size or initial position contains non-numeric value.
+2024-06-06 15:42:32 [main] ERROR org.iosb.robot.simulator.RobotSimulation - Invalid Input. Either Table size or initial position contains non-numeric value.
+2024-06-12 11:51:35 [main] INFO  org.iosb.robot.simulator.services.impl.RobotSimulationServiceImpl - Simulating robot for commands :: MRM 
+2024-06-12 11:51:35 [main] ERROR org.iosb.robot.simulator.services.impl.GridMovementServiceImpl - Illegal move.
+2024-06-12 11:51:35 [main] INFO  org.iosb.robot.simulator.RobotSimulation - Robot new position : 0 1 E
+2024-06-12 11:52:33 [main] ERROR org.iosb.robot.simulator.RobotSimulation -  Robot simulation failed with error: No input provided.
+2024-06-12 13:53:19 [main] ERROR org.iosb.robot.simulator.RobotSimulation - Invalid Input. Either Table size or initial position contains non-numeric value.
+2024-06-28 13:26:10 [main] ERROR org.iosb.robot.simulator.RobotSimulation - Invalid Input. Either Table size or initial position contains non-numeric value.
